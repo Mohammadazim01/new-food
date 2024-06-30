@@ -1,0 +1,33 @@
+/* Our Menu Strat */
+.menu{
+    padding: 100px 11% 100px;
+}
+.menu h3{
+    text-align: center;
+    color: #e53937;
+}
+.menu h2{
+    text-align: center;
+    color: black;
+    font-weight: 600;
+}
+.menu h2 i{
+    color: #e53937;
+}
+.menu h6{
+    font-size: 16px;
+}
+.rating i{
+    color: orange;
+    font-size: 13px;
+}
+.menu p{
+    margin-top: 5px;
+    font-weight: bold;
+}
+.menu p i{
+    float: right;
+    color: #e53937;
+    cursor: pointer;
+}
+/* Our Menu End */
